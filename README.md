@@ -1,5 +1,4 @@
-<!-- Profile README for https://github.com/Karan-259 --><div align="center">
-  <h1>Hi, I'm Karan Rai 👋</h1>
+ <h1>Hi, I'm Karan Rai 👋</h1>
   <h3>Aspiring Software Developer | React & Full-Stack Development</h3>
   <p>
     I enjoy building useful web applications, learning how systems work end to end,
